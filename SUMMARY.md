@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Week 1](week1.md)
 
-## Test group
+## Races&Tribes
 
-* [Page 1](test-group/page-1.md)
+* [Page 1](datasylum-races&tribes/races_tribes.md)
