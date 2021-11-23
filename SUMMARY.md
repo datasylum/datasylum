@@ -3,6 +3,6 @@
 * [Introduction](README.md)
 * [Week 1](week1.md)
 
-## Races&Tribes
+## Datasylum - Races & Tribes
 
-* [Page 1](datasylum-races&tribes/races_tribes.md)
+* [Races & Tribes](datasylum-races&tribes/races_tribes.md)
