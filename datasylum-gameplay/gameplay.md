@@ -37,8 +37,8 @@
     Important info: this note needs to be highlighted
     {% endhint %}
 
-    Failure to transfer the funds on the side of the losing player will result in a permanent ban from the game and devaluation of any tokens in the player's possesion.
+Failure to transfer the funds on the side of the losing player will result in a permanent ban from the game and devaluation of any tokens in the player's possesion.
 
 
 
-    The results of both official and unofficial games will be recorded on Datasylum's website.
+The results of both official and unofficial games will be recorded on Datasylum's website.
