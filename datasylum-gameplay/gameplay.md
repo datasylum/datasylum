@@ -29,13 +29,15 @@
 
 
     Winning teams receive their rewards in a form of an equivalent of $SAND. The rewards are paid out in equal parts to each player of the winning team.
-2.  **Unofficial games**&#x20;
+2.  **Unofficial games**
 
-    The players can also arrange games at any time to compete for a reward that the competing teams agree on. Unofficial games require services of an official referee. The role of the referee is to oversee the game and warrant the transactions of the tokens.&#x20;
+    The players can also arrange games at any time to compete for a reward that the competing teams agree on. Unofficial games require services of an official referee. The role of the referee is to oversee the game and warrant the transactions of the tokens.
 
+    {% hint style='info' %}
+    Important info: this note needs to be highlighted
+    {% endhint %}
 
-
-    Failure to transfer the funds on the side of the losing player will result in a permanent ban from the game and devaluation of any tokens in the player's possesion.&#x20;
+    Failure to transfer the funds on the side of the losing player will result in a permanent ban from the game and devaluation of any tokens in the player's possesion.
 
 
 
