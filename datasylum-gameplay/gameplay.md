@@ -38,9 +38,9 @@ One of the official referees will always be available through to Discord
 {% endhint %}
 
 {% hint style='danger' %}
-One of the official referees will always be available through to Discord
+Failure to transfer the funds on the side of the losing player will result in a permanent ban from the game and devaluation of any tokens in the player's possesion.
 {% endhint %}
 
-Failure to transfer the funds on the side of the losing player will result in a permanent ban from the game and devaluation of any tokens in the player's possesion.
-
+{% hint style='info' %}
 The results of both official and unofficial games will be recorded on Datasylum's website.
+{% endhint %}
