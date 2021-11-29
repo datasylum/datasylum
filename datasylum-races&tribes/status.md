@@ -1,6 +1,6 @@
 # Available characters
 
-Below you will find the status of the number of characters currently owned:
+Below you will find the status of the number of characters that have already been produced:
 
 | Tribes    | Current Count | Total | Remaining |
 | --------- | ------------- | ----- | --------- |
