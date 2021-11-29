@@ -5,7 +5,7 @@
 ## Datasylum - Races & Tribes
 
 * [Races & Tribes](datasylum-races&tribes/races_tribes.md)
-* [Available characters](datasylum-races&tribes/status.md)
+* [Character status](datasylum-races&tribes/status.md)
 
 ## Datasylum - Gameplay
 
