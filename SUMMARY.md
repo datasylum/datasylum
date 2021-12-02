@@ -9,7 +9,7 @@
 
 ## Datasylum - Tokenomics
 
-* [Basics of tokenomy](tokenomics.md)
+* [Basics of tokenomy](datasylum-tokenomics/tokenomics.md)
 
 ## Datasylum - Gameplay
 
