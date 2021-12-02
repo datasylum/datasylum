@@ -11,4 +11,4 @@ The unique combination of Sandbox.io in-game avatars and non-fungible tokens tha
 
 For example, there will be 50 avatars with a unit price of 0.2 ETH released into the market on the first phase and 150 avatars for 0.3 ETH released into the market on the last phase. There will be 450 avatars produced in total.
 
-<img src="./images/newplot.png">
+<img src="./images/newplot.png" width="900" height="500" />
