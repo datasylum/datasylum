@@ -22,9 +22,9 @@ There are predefined requirements for reaching the next social stratum in terms 
 {% hint style="info" %}
 There can only be one *Caesar Machina* in the game. In the case there are two players that meet the requirements for *Caeser Machina*, the title is granted to the one who has a higher win rate.
 {% endhint %}
----
+
 It is important to note that the social rank of your character is positively correlated with the value of your avatar. Namely, 
 
-{% hint style="working" %}
+{% hint style="tip" %}
 The higher the social rank, the more desired your avatar (NFT) becomes. 
 {% endhint %}
