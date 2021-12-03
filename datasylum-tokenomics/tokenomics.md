@@ -1,6 +1,6 @@
 # Basics of tokenomy
 
-The unique combination of Sandbox.io in-game avatars and non-fungible tokens that we offer will be released over a period of six rounds. Every three months a new collection of avatars will be released. In order to establish their value, only a limited number of non-fungible tokens are to be released into the market on each round.
+The unique combination of Sandbox.game in-game avatars and non-fungible tokens that we offer will be released over a period of six rounds. Every three months a new collection of avatars will be released. In order to establish their value, only a limited number of non-fungible tokens are to be released into the market on each round.
 
 | Phase No. | Number of avatars (Units) | Price per Unit (ETH) |
 | --------- | ------------------------- | -------------------- |

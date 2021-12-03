@@ -4,8 +4,9 @@
 
 ## Datasylum - Races & Tribes
 
-* [Races & Tribes](datasylum-races&tribes/races_tribes.md)
-* [Character status](datasylum-races&tribes/status.md)
+* [Races & Tribes](datasylum-races\&tribes/races\_tribes.md)
+* [Character status](datasylum-races\&tribes/status.md)
+* [Page 1](datasylum-races-and-tribes/page-1.md)
 
 ## Datasylum - Tokenomics
 
@@ -14,4 +15,4 @@
 ## Datasylum - Gameplay
 
 * [Gameplay](datasylum-gameplay/gameplay.md)
-* [Social structure](datasylum-gameplay/social_structure.md)
+* [Social structure](datasylum-gameplay/social\_structure.md)
