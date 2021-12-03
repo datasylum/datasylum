@@ -20,5 +20,5 @@ There are predefined requirements for reaching the next social stratum in terms 
 |**Caesar Machina**|128|16|
 
 {% hint style="info" %}
-There can only be one **Caesar Machina* in the game. In the case there are two players that meet the requirements for *Caeser Machina*, the title is granted to the one who has a higher win rate.
+There can only be one *Caesar Machina* in the game. In the case there are two players that meet the requirements for *Caeser Machina*, the title is granted to the one who has a higher win rate.
 {% endhint %}
