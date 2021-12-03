@@ -12,4 +12,4 @@ description: Welcome to Datasylum's official documentation and help resource.
 
 Datasylum is a community-driven game ecosystem where players can build NFT worth by playing  a game. The system is based on The SandBox gamemaker platform. Step by step we're creating a digital-second home, where people could make a decent living by investing their time into a game. Join an exciting workplace that is simply a game - www.datasylum.io -
 
-[https://twitter.com/i/status/1462891420377923590](https://twitter.com/i/status/1462891420377923590)
+[https://www.youtube.com/watch?v=wgBiTciCUMQ](https://www.youtube.com/watch?v=wgBiTciCUMQ)
