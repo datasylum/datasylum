@@ -14,3 +14,4 @@
 ## Datasylum - Gameplay
 
 * [Gameplay](datasylum-gameplay/gameplay.md)
+* [Social structure](datasylum-gameplay/social_structure.md)
