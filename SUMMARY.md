@@ -6,7 +6,6 @@
 
 * [Races & Tribes](datasylum-races\&tribes/races\_tribes.md)
 * [Character status](datasylum-races\&tribes/status.md)
-* [Page 1](datasylum-races-and-tribes/page-1.md)
 
 ## Datasylum - Tokenomics
 
