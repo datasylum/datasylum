@@ -1,18 +1,18 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome!](README.md)
 
 ## Datasylum - Races & Tribes
 
 * [Races & Tribes](datasylum-races\&tribes/races\_tribes.md)
 * [Character status](datasylum-races\&tribes/status.md)
 
-## Datasylum - Tokenomics
-
-* [Basics of tokenomy](datasylum-tokenomics/tokenomics.md)
-
 ## Datasylum - Gameplay
 
 * [Gameplay](datasylum-gameplay/gameplay.md)
-* [Social structure](datasylum-gameplay/social_structure.md)
 * [Games](datasylum-gameplay/games.md)
+* [Social structure](datasylum-gameplay/social\_structure.md)
+
+## Datasylum - Tokenomics
+
+* [NFT pricing](datasylum-tokenomics/tokenomics.md)
